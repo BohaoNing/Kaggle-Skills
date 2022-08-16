@@ -5,3 +5,4 @@
 3. [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
 4. [Time Series](https://www.kaggle.com/learn/time-series)
 5. [Data Cleaning](https://www.kaggle.com/learn/data-cleaning)
+6. [Computer Vision](https://www.kaggle.com/learn/computer-vision)
